@@ -37,5 +37,8 @@ O objetivo deste repositório é servir como material de estudo e referência pa
 - Editor de código (VS Code, PyCharm, etc.)
 - Conhecimentos básicos de lógica de programação
 
+## ▶️ Como Executar os Exemplos
+
+1. Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
