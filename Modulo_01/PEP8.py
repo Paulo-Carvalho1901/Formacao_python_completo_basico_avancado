@@ -28,4 +28,16 @@ numero_impar = 5
 if 'a' in 'banana':
     print('sim!')
 
+[4] - Linhas em branco 
+- separar funções e definições de classes com duas linhas em branco;
+- Métodos dentro de uma classe devem ser separados com uma única linha em branco 
+
+class Classe:
+    pass
+    
+
+class Outra:
+    pass
+
+
 """
