@@ -39,5 +39,7 @@ class Classe:
 class Outra:
     pass
 
+[5] - Importes
 
+- Importes devem ser sempre feitos em linhas separadas;
 """
