@@ -25,5 +25,7 @@ numero_impar = 5
 
 [3] - Utilize 4 espaços para identação!
 
+if 'a' in 'banana':
+    print('sim!')
 
 """
